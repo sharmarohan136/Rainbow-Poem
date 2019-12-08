@@ -3,6 +3,7 @@ The Rainbow and Unicorn
 Purple
 Blue
 Green
+White
 Pink
 Yellow
 Violet
