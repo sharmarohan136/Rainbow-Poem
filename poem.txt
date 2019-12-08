@@ -3,5 +3,6 @@ The Rainbow
 Purple
 Blue
 Green
+Pink
 Violet
 Orange
